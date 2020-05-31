@@ -1,4 +1,11 @@
-# Uniform-graph-pooling
+## Uniform-graph-pooling
 The core code for article "Uniform Pooling for Graph Networks"
 
------ The code is being organized and updated soon！---------
+## Requirements
+
+  * torch_geometric
+  * torch
+
+## Usage
+
+```python main.py```
